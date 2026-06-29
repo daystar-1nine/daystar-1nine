@@ -113,22 +113,14 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=✦+GITHUB+TROPHIES+✦" />
-
-<br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=daystar-1nine&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</a>
-
-<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=✦+GITHUB+ANALYTICS+✦" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=daystar-1nine&show_icons=true&theme=tokyonight&bg_color=0B0A0F&title_color=8B5CF6&icon_color=3B82F6&text_color=9CA3AF&border_color=1F1E24&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daystar-1nine&layout=compact&theme=tokyonight&bg_color=0B0A0F&title_color=8B5CF6&text_color=9CA3AF&border_color=1F1E24&hide_border=false" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=daystar-1nine&show_icons=true&theme=tokyonight&bg_color=0B0A0F&title_color=8B5CF6&icon_color=3B82F6&text_color=9CA3AF&border_color=1F1E24&hide_border=false" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daystar-1nine&layout=compact&theme=tokyonight&bg_color=0B0A0F&title_color=8B5CF6&text_color=9CA3AF&border_color=1F1E24&hide_border=false" />
+
 
 <br><br>
 

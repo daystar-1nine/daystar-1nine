@@ -158,10 +158,12 @@
 <br>
 
 <a href="https://github.com/daystar-1nine"><img src="https://img.shields.io/badge/GitHub-0B0A0F?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0B0A0F?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0B0A0F?style=for-the-badge&logo=globe&logoColor=8B5CF6" alt="Portfolio" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-0B0A0F?style=for-the-badge&logo=gmail&logoColor=3B82F6" alt="Email" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-0B0A0F?style=for-the-badge&logo=x&logoColor=8B5CF6" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/surajsawant19062005/"><img src="https://img.shields.io/badge/LinkedIn-0B0A0F?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn" /></a>
+<a href="https://suraj1nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B0A0F?style=for-the-badge&logo=globe&logoColor=8B5CF6" alt="Portfolio" /></a>
+<a href="mailto:surajonenine@gmail.com"><img src="https://img.shields.io/badge/Email-0B0A0F?style=for-the-badge&logo=gmail&logoColor=3B82F6" alt="Email" /></a>
+<a href="https://x.com/one9daystar"><img src="https://img.shields.io/badge/Twitter-0B0A0F?style=for-the-badge&logo=x&logoColor=8B5CF6" alt="Twitter" /></a>
+<a href="https://www.instagram.com/daystar.drafts/"><img src="https://img.shields.io/badge/Instagram-0B0A0F?style=for-the-badge&logo=instagram&logoColor=3B82F6" alt="Instagram" /></a>
+<a href="https://discord.gg/kkfHFSbZ"><img src="https://img.shields.io/badge/Discord-0B0A0F?style=for-the-badge&logo=discord&logoColor=8B5CF6" alt="Discord" /></a>
 
 <br><br>
 

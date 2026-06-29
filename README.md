@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,3B82F6&height=250&section=header&text=Suraj%20Sawant&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=8B5CF6,3B82F6,FF3366,00C9FF&height=250&section=header&text=Suraj%20Sawant&fontSize=70&fontAlignY=35&animation=hue&fontColor=ffffff" width="100%" />
 
-# Hi, I'm Suraj Sawant 👋
+# Hi, I'm Suraj Sawant <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Data+Science+Student;Python+Developer;AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Open+Source+Learner;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&pause=500&color=00F0FF&center=true&vCenter=true&width=500&lines=Data+Science+Student;Python+Developer;AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Open+Source+Learner;Problem+Solver)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br>
 
@@ -14,16 +18,24 @@
 [![Visitors](https://img.shields.io/badge/Visitors-1000+-0B0A0F?style=for-the-badge&logo=googleanalytics&color=0B0A0F&labelColor=0B0A0F&logoColor=3B82F6)](#)
 [![Location](https://img.shields.io/badge/Mumbai-🇮🇳-0B0A0F?style=for-the-badge&logo=googlemaps&color=0B0A0F&labelColor=0B0A0F&logoColor=8B5CF6)](#)
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300" />
+
 <br><br>
 
-### ✦ ABOUT ME ✦
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=✦+ABOUT+ME+✦" />
 
 > 🎓 B.Tech Data Science Student  |  💡 Passionate about AI  |  📈 Learning Machine Learning <br>
 > 💻 Full Stack Development  |  🔥 Love Building Real World Projects  |  🚀 Always Learning
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <br><br>
 
-### ✦ NOW BUILDING ✦
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=✦+NOW+BUILDING+✦" />
 
 > **🛡 SuRaksha** <br>
 > AI Powered UPI Fraud Detection <br>
@@ -51,9 +63,13 @@
 > <sup>`Java` • `Cryptography`</sup> <br>
 > [![Repo](https://img.shields.io/badge/GitHub-0B0A0F?style=flat-square&logo=github&logoColor=8B5CF6)](#) [![Demo](https://img.shields.io/badge/Live-0B0A0F?style=flat-square&logo=vercel&logoColor=3B82F6)](#)
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <br><br>
 
-### ✦ TECH STACK ✦
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=✦+TECH+STACK+✦" />
 
 <br>
 
@@ -91,9 +107,23 @@
 ![Arduino](https://img.shields.io/badge/Arduino-0B0A0F?style=for-the-badge&logo=arduino&logoColor=8B5CF6)
 ![ESP8266](https://img.shields.io/badge/ESP8266-0B0A0F?style=for-the-badge&logo=espressif&logoColor=3B82F6)
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <br><br>
 
-### ✦ GITHUB ANALYTICS ✦
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=✦+GITHUB+TROPHIES+✦" />
+
+<br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=daystar-1nine&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=✦+GITHUB+ANALYTICS+✦" />
 
 <br>
 
@@ -116,9 +146,13 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=daystar-1nine&theme=tokyo-night&bg_color=0B0A0F&color=8B5CF6&line=3B82F6&point=ffffff&hide_border=false" width="100%" />
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <br><br>
 
-### ✦ LEARNING ROADMAP ✦
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=✦+LEARNING+ROADMAP+✦" />
 
 <br>
 
@@ -133,7 +167,7 @@
 
 <br><br>
 
-### ✦ FEATURED ACHIEVEMENTS ✦
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=✦+FEATURED+ACHIEVEMENTS+✦" />
 
 <br>
 
@@ -143,17 +177,17 @@
 [![College](https://img.shields.io/badge/College-0B0A0F?style=for-the-badge&logo=googlescholar&logoColor=3B82F6)](#)
 [![Learning Journey](https://img.shields.io/badge/Learning_Journey-0B0A0F?style=for-the-badge&logo=udemy&logoColor=8B5CF6)](#)
 
-<br><br>
-
-### ✦ QUOTE ✦
-
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=%22Turning+ideas+into+intelligent+software.%22" alt="Quote" />
 
 <br><br>
 
-### ✦ CONNECT WITH ME ✦
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=✦+CONNECT+WITH+ME+✦" />
 
 <br>
 
@@ -167,6 +201,6 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,3B82F6&height=150&section=footer&text=Thanks%20for%20visiting%20my%20profile%20⭐&fontSize=30&fontAlignY=50&animation=twinkling&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&customColorList=8B5CF6,3B82F6,FF3366,00C9FF&height=150&section=footer&text=Thanks%20for%20visiting%20my%20profile%20⭐&fontSize=30&fontAlignY=50&animation=twinkling&fontColor=ffffff" width="100%" />
 
 </div>

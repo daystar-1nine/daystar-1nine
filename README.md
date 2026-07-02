@@ -149,6 +149,11 @@
 <br>
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Smart Finance Manager v1.0.0](https://github.com/daystar-1nine/SmartFinanceManager/releases/tag/v1.0.0) in [daystar-1nine/SmartFinanceManager](https://github.com/daystar-1nine/SmartFinanceManager)
+2. ℹ️ Labeled issue [#2](https://github.com/daystar-1nine/SmartFinanceManager/issues/2) in [daystar-1nine/SmartFinanceManager](https://github.com/daystar-1nine/SmartFinanceManager)
+3. ℹ️ Labeled issue [#2](https://github.com/daystar-1nine/SmartFinanceManager/issues/2) in [daystar-1nine/SmartFinanceManager](https://github.com/daystar-1nine/SmartFinanceManager)
+4. ❗ Opened issue [#2](https://github.com/daystar-1nine/SmartFinanceManager/issues/2) in [daystar-1nine/SmartFinanceManager](https://github.com/daystar-1nine/SmartFinanceManager)
+5. ℹ️ Labeled issue [#1](https://github.com/daystar-1nine/SmartFinanceManager/issues/1) in [daystar-1nine/SmartFinanceManager](https://github.com/daystar-1nine/SmartFinanceManager)
 <!--END_SECTION:activity-->
 
 <br><br>

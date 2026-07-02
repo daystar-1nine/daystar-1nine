@@ -144,6 +144,15 @@
 
 <br><br>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=✦+RECENT+ACTIVITY+✦" />
+
+<br>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br><br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=✦+LEARNING+ROADMAP+✦" />
 
 <br>

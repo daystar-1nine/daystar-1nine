@@ -143,7 +143,7 @@
 <tr>
 
 <!-- LEFT: COLLAB -->
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h2>🤝 Collaboration</h2>
 
@@ -158,20 +158,8 @@ I’m open to collaborating on:
 
 </td>
 
-<!-- MIDDLE: PANEL -->
-<td width="34%" align="center" valign="middle">
-    <h2>🏆 Profiles</h2>
-    
-    <br>
-    
-    <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a><br>
-    <a href="#"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a><br>
-    <a href="#"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=8B5CF6" /></a><br>
-    <a href="#"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
-</td>
-
 <!-- RIGHT: CONTACT -->
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 <h2>📫 Contact</h2>
 
@@ -189,6 +177,21 @@ I’m open to collaborating on:
 
 <a href="https://www.linkedin.com/in/surajsawant19062005/">
   <img src="https://img.shields.io/badge/linkedin-suraj--sawant-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+<br><br>
+
+<a href="https://x.com/one9daystar">
+  <img src="https://img.shields.io/badge/twitter-one9daystar-0B0A0F?style=for-the-badge&logo=x" alt="Twitter profile link">
+</a>
+<br><br>
+
+<a href="https://discord.gg/kkfHFSbZ">
+  <img src="https://img.shields.io/badge/discord-Suraj-8B5CF6?style=for-the-badge&logo=discord" alt="Discord link">
+</a>
+<br><br>
+
+<a href="https://www.instagram.com/daystar.drafts/">
+  <img src="https://img.shields.io/badge/instagram-daystar.drafts-E4405F?style=for-the-badge&logo=instagram" alt="Instagram link">
 </a>
 
 </td>

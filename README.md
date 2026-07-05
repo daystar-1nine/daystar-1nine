@@ -164,7 +164,7 @@ I’m open to collaborating on:
 </td>
 
 <!-- RIGHT: CONTACT -->
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 <h2>📫 Contact</h2>
 
@@ -185,18 +185,23 @@ I’m open to collaborating on:
 </a>
 <br><br>
 
+<a href="https://www.facebook.com/profile.php?id=100042762615551">
+  <img src="https://img.shields.io/badge/facebook-Suraj--Sawant-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile link">
+</a>
+<br><br>
+
 <a href="https://x.com/one9daystar">
-  <img src="https://img.shields.io/badge/twitter-one9daystar-0B0A0F?style=for-the-badge&logo=x" alt="Twitter profile link">
+  <img src="https://img.shields.io/badge/twitter-one9daystar-0B0A0F?style=for-the-badge&logo=x&logoColor=white" alt="Twitter profile link">
 </a>
 <br><br>
 
 <a href="https://discord.gg/kkfHFSbZ">
-  <img src="https://img.shields.io/badge/discord-Suraj-8B5CF6?style=for-the-badge&logo=discord" alt="Discord link">
+  <img src="https://img.shields.io/badge/discord-Suraj-8B5CF6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord link">
 </a>
 <br><br>
 
 <a href="https://www.instagram.com/daystar.drafts/">
-  <img src="https://img.shields.io/badge/instagram-daystar.drafts-E4405F?style=for-the-badge&logo=instagram" alt="Instagram link">
+  <img src="https://img.shields.io/badge/instagram-daystar.drafts-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram link">
 </a>
 
 </td>

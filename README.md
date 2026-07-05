@@ -110,14 +110,6 @@
 ### 📈 Activity Graphs
 
 <details>
-  <summary><b>🔥 See my 3D Contribution Graph</b></summary>
-  <br>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/daystar-1nine/daystar-1nine/main/profile-3d-contrib/profile-night-rainbow.svg" width="80%" />
-  </div>
-</details>
-
-<details>
   <summary><b>🐍 See my Contribution Snake</b></summary>
   <br>
   <div align="center">
@@ -144,70 +136,24 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/daystar-1nine)
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
-<tr>
-
-<!-- LEFT: COLLAB -->
-<td width="50%" valign="top">
-
-<h2>🤝 Collaboration</h2>
-
-I’m open to collaborating on:
-
-<ul>
-  <li>Machine Learning Projects</li>
-  <li>Full-stack Web Apps</li>
-  <li>Open Source Contributions</li>
-  <li>Hackathons</li>
-</ul>
-
-</td>
-
-<!-- RIGHT: CONTACT -->
-<td width="50%" valign="top">
-
-<h2>📫 Contact</h2>
+<h3 align="center">🤝 Collaboration</h3>
+<p align="center">
+  <i>I’m open to collaborating on Machine Learning Projects, Full-stack Web Apps, Open Source Contributions, and Hackathons!</i>
+</p>
 
 <br>
 
-<a href="https://suraj1nine.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-suraj1nine.vercel.app-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
-</a>
-<br><br>
-
-<a href="mailto:surajonenine@gmail.com">
-  <img src="https://img.shields.io/badge/email-surajonenine@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
-</a>
-<br><br>
-
-<a href="https://www.linkedin.com/in/surajsawant19062005/">
-  <img src="https://img.shields.io/badge/linkedin-suraj--sawant-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
-</a>
-<br><br>
-
-<a href="https://www.facebook.com/profile.php?id=100042762615551">
-  <img src="https://img.shields.io/badge/facebook-Suraj--Sawant-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile link">
-</a>
-<br><br>
-
-<a href="https://x.com/one9daystar">
-  <img src="https://img.shields.io/badge/twitter-one9daystar-0B0A0F?style=for-the-badge&logo=x&logoColor=white" alt="Twitter profile link">
-</a>
-<br><br>
-
-<a href="https://discord.gg/kkfHFSbZ">
-  <img src="https://img.shields.io/badge/discord-Suraj-8B5CF6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord link">
-</a>
-<br><br>
-
-<a href="https://www.instagram.com/daystar.drafts/">
-  <img src="https://img.shields.io/badge/instagram-daystar.drafts-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram link">
-</a>
-
-</td>
-
-</tr>
-</table>
+<h3 align="center">📫 Let's Connect</h3>
+<p align="center">
+  <a href="https://suraj1nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-suraj1nine.vercel.app-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link"></a>
+  <a href="mailto:surajonenine@gmail.com"><img src="https://img.shields.io/badge/email-surajonenine@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link"></a>
+  <a href="https://www.linkedin.com/in/surajsawant19062005/"><img src="https://img.shields.io/badge/linkedin-suraj--sawant-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link"></a>
+  <a href="https://www.facebook.com/profile.php?id=100042762615551"><img src="https://img.shields.io/badge/facebook-Suraj--Sawant-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile link"></a>
+  <br><br>
+  <a href="https://x.com/one9daystar"><img src="https://img.shields.io/badge/twitter-one9daystar-0B0A0F?style=for-the-badge&logo=x&logoColor=white" alt="Twitter profile link"></a>
+  <a href="https://discord.gg/kkfHFSbZ"><img src="https://img.shields.io/badge/discord-Suraj-8B5CF6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord link"></a>
+  <a href="https://www.instagram.com/daystar.drafts/"><img src="https://img.shields.io/badge/instagram-daystar.drafts-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram link"></a>
+</p>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/daystar-1nine)
 

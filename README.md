@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=daystar-1nine&show_icons=true&theme=radical" alt="GitHub profile contribution summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daystar-1nine&theme=radical" alt="GitHub profile contribution summary" />
 </p>    
 
 <p align="center">

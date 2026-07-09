@@ -93,7 +93,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daystar-1nine&theme=radical" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=daystar-1nine&theme=radical" alt="Streak" />
 </p>
 
 <p align="center">

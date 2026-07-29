@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suraj%20Sawant&fontSize=70&animation=twinkling" alt="profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=250&section=header&text=Suraj%20Sawant&fontSize=70&animation=twinkling" alt="profile header" />
 </p>
 
 <!-- Title -->
@@ -148,6 +148,7 @@
   <a href="https://suraj1nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-suraj1nine.vercel.app-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link"></a>
   <a href="mailto:surajonenine@gmail.com"><img src="https://img.shields.io/badge/email-surajonenine@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link"></a>
   <a href="https://www.linkedin.com/in/surajsawant19062005/"><img src="https://img.shields.io/badge/linkedin-suraj--sawant-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link"></a>
+  <a href="https://leetcode.com/u/daystar-onenine/"><img src="https://img.shields.io/badge/leetcode-daystar--onenine-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile link"></a>
   <a href="https://www.facebook.com/profile.php?id=100042762615551"><img src="https://img.shields.io/badge/facebook-Suraj--Sawant-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile link"></a>
   <br><br>
   <a href="https://x.com/one9daystar"><img src="https://img.shields.io/badge/twitter-one9daystar-0B0A0F?style=for-the-badge&logo=x&logoColor=white" alt="Twitter profile link"></a>
@@ -177,5 +178,5 @@ Star ⭐ the repos if they helped you!
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=footer&width=100" alt="Profile footer 3d"/>
 </p>

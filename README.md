@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&customColorList=E23636,205295,E23636&height=250&section=header&text=Suraj%20Sawant&fontSize=70&animation=twinkling&fontColor=ffffff" alt="profile header" />
+  <img src="https://i.pinimg.com/originals/d6/db/ba/d6dbba0b009e8633e9d8929b3c411516.jpg" alt="Spider-Man Into The Spider-Verse Leap of Faith" width="100%" />
 </p>
 
 <!-- Title -->
@@ -152,6 +152,14 @@
 
 <p align="center">
 ⚡ <i>"Anyone can wear the mask. You could wear the mask."</i>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/0DpUQ3mpAGy3bYsEKVy6t5?si=10df145e05944a3c">
+    <img src="https://img.shields.io/badge/Spotify-My_Spidey_Theme_Song-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Theme Song" />
+  </a>
 </p>
 
 <p align="center">

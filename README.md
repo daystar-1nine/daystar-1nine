@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=250&section=header&text=Suraj%20Sawant&fontSize=70&animation=twinkling" alt="profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&customColorList=E23636,205295,E23636&height=250&section=header&text=Suraj%20Sawant&fontSize=70&animation=twinkling&fontColor=ffffff" alt="profile header" />
 </p>
 
 <!-- Title -->
@@ -20,13 +20,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Machine+Learning+Enthusiast;Designing+Full-Stack+Applications;Building+AI+Models;Computer+Vision+%7C+Python+%7C+Data+Science"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=E23636&center=true&vCenter=true&width=900&lines=Machine+Learning+Enthusiast;Designing+Full-Stack+Applications;Building+AI+Models;Computer+Vision+%7C+Python+%7C+Data+Science"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated visual">
+<img src="https://media.tenor.com/3bK-PzB5PtkAAAAC/spider-man-desk.gif" width="450" alt="Spider-Man coding visual">
 </p>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/daystar-1nine)
@@ -93,15 +93,15 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=daystar-1nine&theme=radical" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=daystar-1nine&background=0B0A0F&ring=E23636&fire=E23636&currStreakLabel=E23636&sideNums=ffffff&currStreakNum=ffffff&sideLabels=9CA3AF&border=205295" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daystar-1nine&theme=radical" alt="GitHub profile contribution summary" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=daystar-1nine&show_icons=true&bg_color=0B0A0F&title_color=E23636&text_color=9CA3AF&icon_color=205295&border_color=E23636" alt="GitHub profile contribution summary" />
 </p>    
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daystar-1nine&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=daystar-1nine&label=PROFILE%20VIEWS&color=E23636&style=flat-square" alt="Views" />
 </p>
 
 
@@ -136,14 +136,14 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/daystar-1nine)
 
-<h3 align="center">🤝 Collaboration</h3>
+<h3 align="center">🕸️ Collaboration 🕷️</h3>
 <p align="center">
   <i>I’m open to collaborating on Machine Learning Projects, Full-stack Web Apps, Open Source Contributions, and Hackathons!</i>
 </p>
 
 <br>
 
-<h3 align="center">📫 Let's Connect</h3>
+<h3 align="center">📫 Let's Connect 🕸️</h3>
 <p align="center">
   <a href="https://suraj1nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-suraj1nine.vercel.app-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link"></a>
   <a href="mailto:surajonenine@gmail.com"><img src="https://img.shields.io/badge/email-surajonenine@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link"></a>
@@ -159,7 +159,7 @@
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/daystar-1nine)
 
 <p align="center">
-  <img src="https://quotes-api-ruddy.vercel.app/quotes/random/svg?theme=radical&width=800&height=200" alt="Quote of the Day" />
+  <img src="https://quotes-api-ruddy.vercel.app/quotes/random/svg?theme=dracula&width=800&height=200" alt="Quote of the Day" />
 </p>
 
 <p align="center">
@@ -178,5 +178,5 @@ Star ⭐ the repos if they helped you!
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=footer&width=100" alt="Profile footer 3d"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&customColorList=E23636,205295,E23636&height=100&section=footer&width=100" alt="Profile footer 3d"/>
 </p>

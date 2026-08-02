@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPbNb1vWdftiVLq/giphy.gif" alt="Exhausted Spider-Man">
+
   <h1>💀 GAME OVER 💀</h1>
 </div>
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/XtdM5moauiwd3qw4Yp/giphy.gif" alt="Venom Roaring">
+
   <h1>🕸️ The Server Room 🕸️</h1>
 </div>
 

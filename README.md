@@ -5,40 +5,33 @@
 <!-- Title -->
 <h3 align="center">
     <samp>
-        &gt; Hey There!, I am
-        <b><a target="_blank" href="https://suraj1nine.vercel.app/">Suraj Sawant</a></b>
+        &gt; <i>"With great data, comes great responsibility."</i>
     </samp>
 </h3>
 
 <br>
 
 <p align="center">
-<samp>
-「 Data Science Student building scalable AI systems and full-stack software 」  
-</samp>
-</p>
-
-<p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=E23636&center=true&vCenter=true&width=900&lines=Machine+Learning+Enthusiast;Designing+Full-Stack+Applications;Building+AI+Models;Computer+Vision+%7C+Python+%7C+Data+Science"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=E23636&center=true&vCenter=true&width=900&lines=Swinging+through+Neural+Networks;Building+Web(sites)+like+Spidey;My+Spider-Sense+is+Tingling;Data+Science+%7C+AI+%7C+Full-Stack"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/3bK-PzB5PtkAAAAC/spider-man-desk.gif" width="450" alt="Spider-Man coding visual">
+<img src="https://media.tenor.com/1GvK0nK6F9MAAAAd/spiderman.gif" width="450" alt="Spider-Man Action Visual">
 </p>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/daystar-1nine)
 
-<!-- TECHNOLOGIES AND ABOUT ME -->
+<!-- STORYLINE AND ARSENAL -->
 <table border="0" cellspacing="10" cellpadding="0" width="100%">
 <tr>
 
-<!-- LEFT: TOOLS -->
+<!-- LEFT: ARSENAL -->
 <td width="50%" valign="top" align="center">
 
-<h3>🛠 Technologies</h3>
+<h3>🕸️ My Web-Shooters (Arsenal)</h3>
 <br>
 
 <table align="center" cellspacing="0" cellpadding="6">
@@ -67,17 +60,17 @@
 
 </td>
 
-<!-- RIGHT: ABOUT ME -->
+<!-- RIGHT: ORIGIN STORY -->
 <td width="50%" valign="top" align="center">
 
-<h3>👨‍💻 About Me</h3>
+<h3>🕷️ The Origin Story</h3>
 <br>
 
 <p align="left">
-  🎓 <b>Education:</b> B.Tech in Data Science <br><br>
-  💻 <b>Focus:</b> Machine Learning, Deep Learning, and Computer Vision <br><br>
-  🚀 <b>Current Projects:</b> SuRaksha (UPI Fraud) & AI Attendance Tracker <br><br>
-  💡 <b>Goal:</b> Building scalable AI systems and turning ideas into intelligent software.
+  Bitten by a radioactive software bug, <b>Suraj Sawant</b> gained the proportional speed and intelligence of a Data Science student. Now, armed with web-shooters powered by Machine Learning and Full-Stack architecture, he swings through the concrete jungle of neural networks, battling bad syntax and optimizing algorithms!
+  <br><br>
+  🚀 <b>Current Missions:</b> SuRaksha (UPI Fraud Prevention) & AI Attendance Tracker <br><br>
+  💡 <b>Prime Directive:</b> Building scalable AI systems and turning ideas into intelligent software.
 </p>
 
 </td>
@@ -89,7 +82,7 @@
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/daystar-1nine)
 
 
-### 📊 Vital Statistics
+### 📸 The Daily Bugle Front Page (Stats)
 
 
 <p align="center">
@@ -107,7 +100,7 @@
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/daystar-1nine)
 
-### 📈 Activity Graphs
+### 📈 Activity Graphs (Swinging Paths)
 
 <details>
   <summary><b>🐍 See my Contribution Snake</b></summary>
@@ -124,26 +117,21 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/daystar-1nine)
 
-### ⚡ Recent Activity
+### ⚡ Recent Missions (Activity)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Smart Finance Manager v1.0.0](https://github.com/daystar-1nine/SmartFinanceManager/releases/tag/v1.0.0) in [daystar-1nine/SmartFinanceManager](https://github.com/daystar-1nine/SmartFinanceManager)
-2. ℹ️ Labeled issue [#2](https://github.com/daystar-1nine/SmartFinanceManager/issues/2) in [daystar-1nine/SmartFinanceManager](https://github.com/daystar-1nine/SmartFinanceManager)
-3. ℹ️ Labeled issue [#2](https://github.com/daystar-1nine/SmartFinanceManager/issues/2) in [daystar-1nine/SmartFinanceManager](https://github.com/daystar-1nine/SmartFinanceManager)
-4. ❗ Opened issue [#2](https://github.com/daystar-1nine/SmartFinanceManager/issues/2) in [daystar-1nine/SmartFinanceManager](https://github.com/daystar-1nine/SmartFinanceManager)
-5. ℹ️ Labeled issue [#1](https://github.com/daystar-1nine/SmartFinanceManager/issues/1) in [daystar-1nine/SmartFinanceManager](https://github.com/daystar-1nine/SmartFinanceManager)
 <!--END_SECTION:activity-->
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/daystar-1nine)
 
-<h3 align="center">🕸️ Collaboration 🕷️</h3>
+<h3 align="center">🕸️ Into the Spider-Verse (Collaboration) 🕷️</h3>
 <p align="center">
-  <i>I’m open to collaborating on Machine Learning Projects, Full-stack Web Apps, Open Source Contributions, and Hackathons!</i>
+  <i>I’m open to teaming up across the multiverse on Machine Learning Projects, Full-stack Web Apps, Open Source Contributions, and Hackathons!</i>
 </p>
 
 <br>
 
-<h3 align="center">📫 Let's Connect 🕸️</h3>
+<h3 align="center">📫 Call the Webhead (Connect) 🕸️</h3>
 <p align="center">
   <a href="https://suraj1nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-suraj1nine.vercel.app-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link"></a>
   <a href="mailto:surajonenine@gmail.com"><img src="https://img.shields.io/badge/email-surajonenine@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link"></a>
@@ -163,12 +151,8 @@
 </p>
 
 <p align="center">
-⚡ Turning ideas into intelligent software and scalable systems
+⚡ <i>"Anyone can wear the mask. You could wear the mask."</i>
 </p>
-<p align="center">
-Star ⭐ the repos if they helped you!
-</p>
-
 
 <p align="center">
     <a href="#">

@@ -160,6 +160,17 @@
     </a>
 </p>
 
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/daystar-1nine)
+
+### 🕹️ Mini-Game: Catch the Symbiote!
+
+**🚨 WARNING: VENOM HAS BREACHED THE REPOSITORY! 🚨**<br>
+The Symbiote has escaped and is currently hiding somewhere in my GitHub profile. I need your help to track him down before he corrupts my source code!
+
+👉 **[CLICK HERE TO SUIT UP AND START THE MISSION](.github/symbiote-game/level1.md)** 👈
+
+<br>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&customColorList=E23636,205295,E23636&height=100&section=footer&width=100" alt="Profile footer 3d"/>

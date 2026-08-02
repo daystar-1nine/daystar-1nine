@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/4F5G-X8yHxgAAAAC/peter-parker-spiderman.gif" alt="Exhausted Spider-Man">
+  <img src="https://media.giphy.com/media/3oKIPbNb1vWdftiVLq/giphy.gif" alt="Exhausted Spider-Man">
   <h1>💀 GAME OVER 💀</h1>
 </div>
 

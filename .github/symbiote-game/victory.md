@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/mJ2H6BwR6EwAAAAC/spider-man-marvel.gif" alt="Spider-Man Victory">
+  <img src="https://media.giphy.com/media/l0HlIDueXmcWNTPO0/giphy.gif" alt="Spider-Man Victory">
   <h1>🎉 YOU CAUGHT THE SYMBIOTE! 🎉</h1>
 </div>
 

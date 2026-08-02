@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/Z47-E3a_iZkAAAAC/venom.gif" alt="Venom escapes">
+  <img src="https://media.giphy.com/media/bY3y9DT5SSi2RQ4Ke0/giphy.gif" alt="Venom escapes">
   <h1>💀 GAME OVER 💀</h1>
 </div>
 

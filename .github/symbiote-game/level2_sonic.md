@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/pZqN-C6XoN0AAAAd/spider-man-marvels-spider-man.gif" alt="Spidey running up a building">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoEls/giphy.gif" alt="Spidey running up a building">
   <h1>🏙️ The Rooftop Chase 🏙️</h1>
 </div>
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d6/db/ba/d6dbba0b009e8633e9d8929b3c411516.jpg" alt="Spider-Man Into The Spider-Verse Leap of Faith" width="100%" />
+  <img src="https://media.giphy.com/media/XZa3nFEs9Sg9z5rQZc/giphy.gif" alt="Spider-Man Into The Spider-Verse Leap of Faith" width="100%" />
 </p>
 
 <!-- Title -->
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/1GvK0nK6F9MAAAAd/spiderman.gif" width="450" alt="Spider-Man Action Visual">
+<img src="https://media.giphy.com/media/xTiTnHvXHZxIcbOcEw/giphy.gif" width="450" alt="Spider-Man Action Visual">
 </p>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/daystar-1nine)

@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=000000,FF0000,000000,3c0b5c&height=250&section=header&text=Suraj%20Sawant&fontSize=70&animation=twinkling&fontColor=ffffff" alt="profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=000000,0B0C10,1f2833,000000&height=250&section=header&text=Suraj%20Sawant&fontSize=70&animation=twinkling&fontColor=ffffff&desc=Data%20Science%20Astronaut&descAlignY=70&descAlign=62" alt="profile header" />
 </p>
 
 <!-- Title -->
 <h3 align="center">
     <samp>
-        &gt; <i>"The bug whose name is written in this repository shall be deleted."</i>
+        &gt; <i>"To infinity and beyond the codebase."</i>
     </samp>
 </h3>
 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=I+will+become+the+God+of+the+new+Codebase;Deleting+Bugs...+DELETE!;Writing+names+in+the+Death+Node;Data+Science+%7C+AI+%7C+Full-Stack"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=FDB813&center=true&vCenter=true&width=900&lines=Charting+the+Digital+Cosmos;Building+Interplanetary+AI+Systems;Machine+Learning+Astronaut;Data+Science+%7C+AI+%7C+Full-Stack"
     alt="Typing SVG"
   />
 </p>
@@ -28,7 +28,7 @@
 <!-- LEFT: ARSENAL -->
 <td width="50%" valign="top" align="center">
 
-<h3>🍎 Shinigami Tools (Arsenal)</h3>
+<h3>⚙️ The Control Panel (Arsenal)</h3>
 <br>
 
 <table align="center" cellspacing="0" cellpadding="6">
@@ -60,14 +60,14 @@
 <!-- RIGHT: ORIGIN STORY -->
 <td width="50%" valign="top" align="center">
 
-<h3>📓 Rules of the Code</h3>
+<h3>🔭 Captain's Log</h3>
 <br>
 
 <p align="left">
-  Possessing a notebook of infinite knowledge, <b>Suraj Sawant</b> has taken it upon himself to cleanse the digital world of bad syntax and legacy code. Operating from the shadows, he leverages Machine Learning and Full-Stack development to execute algorithms with flawless precision.
+  Orbiting through a universe of infinite data, <b>Suraj Sawant</b> has embarked on a lifelong mission to map the digital cosmos. Operating from Mission Control, he leverages Machine Learning and Full-Stack development to engineer systems capable of interstellar scale.
   <br><br>
-  🚀 <b>Current Investigations:</b> SuRaksha (UPI Fraud Prevention) & AI Attendance Tracker <br><br>
-  💡 <b>Prime Directive:</b> Building scalable AI systems and becoming the God of the new Codebase.
+  🚀 <b>Current Missions:</b> SuRaksha (UPI Fraud Prevention) & AI Attendance Tracker <br><br>
+  💡 <b>Prime Directive:</b> Building scalable AI systems and turning ideas into intelligent software.
 </p>
 
 </td>
@@ -79,28 +79,28 @@
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/daystar-1nine)
 
 
-### 🔍 L's Investigation Board (Stats)
+### 🛰️ Mission Control Telemetry (Stats)
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=daystar-1nine&background=0B0A0F&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=ffffff&currStreakNum=ffffff&sideLabels=9CA3AF&border=FF0000" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=daystar-1nine&background=000000&ring=FDB813&fire=FF8C00&currStreakLabel=FDB813&sideNums=ffffff&currStreakNum=ffffff&sideLabels=9CA3AF&border=FDB813" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daystar-1nine&show_icons=true&bg_color=0B0A0F&title_color=FF0000&text_color=9CA3AF&icon_color=FF0000&border_color=FF0000" alt="GitHub profile contribution summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daystar-1nine&show_icons=true&bg_color=000000&title_color=FDB813&text_color=9CA3AF&icon_color=FF8C00&border_color=FDB813" alt="GitHub profile contribution summary" />
 </p>    
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daystar-1nine&label=PROFILE%20VIEWS&color=FF0000&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=daystar-1nine&label=PROFILE%20VIEWS&color=FDB813&style=flat-square" alt="Views" />
 </p>
 
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/daystar-1nine)
 
-### 📈 The Kira Investigation (Activity)
+### 🌌 Orbital Trajectories (Activity)
 
 <details>
-  <summary><b>📓 See my Contribution Graph</b></summary>
+  <summary><b>🛰️ See my Contribution Constellation</b></summary>
   <br>
   <div align="center">
     <picture>
@@ -114,50 +114,50 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/daystar-1nine)
 
-### ⚡ Recent Executions (Activity)
+### ☄️ Recent Launches (Activity)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/daystar-1nine)
 
-<h3 align="center">🍎 The Task Force (Collaboration) 🍎</h3>
+<h3 align="center">🪐 The Intergalactic Federation (Collaboration) ☄️</h3>
 <p align="center">
-  <i>I’m open to teaming up on Machine Learning Projects, Full-stack Web Apps, Open Source Contributions, and Hackathons!</i>
+  <i>I’m open to teaming up across the galaxy on Machine Learning Projects, Full-stack Web Apps, Open Source Contributions, and Hackathons!</i>
 </p>
 
 <br>
 
-<h3 align="center">📫 Contact Kira (Connect) 📓</h3>
+<h3 align="center">📡 Establish Comms Link (Connect) 👽</h3>
 <p align="center">
-  <a href="https://suraj1nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-suraj1nine.vercel.app-000000?style=for-the-badge&logo=google-chrome" alt="Personal website link"></a>
-  <a href="mailto:surajonenine@gmail.com"><img src="https://img.shields.io/badge/email-surajonenine@gmail.com-FF0000?style=for-the-badge&logo=gmail" alt="Email contact link"></a>
-  <a href="https://www.linkedin.com/in/surajsawant19062005/"><img src="https://img.shields.io/badge/linkedin-suraj--sawant-000000?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link"></a>
-  <a href="https://leetcode.com/u/daystar-onenine/"><img src="https://img.shields.io/badge/leetcode-daystar--onenine-FF0000?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile link"></a>
-  <a href="https://www.facebook.com/profile.php?id=100042762615551"><img src="https://img.shields.io/badge/facebook-Suraj--Sawant-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile link"></a>
+  <a href="https://suraj1nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-suraj1nine.vercel.app-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link"></a>
+  <a href="mailto:surajonenine@gmail.com"><img src="https://img.shields.io/badge/email-surajonenine@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link"></a>
+  <a href="https://www.linkedin.com/in/surajsawant19062005/"><img src="https://img.shields.io/badge/linkedin-suraj--sawant-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link"></a>
+  <a href="https://leetcode.com/u/daystar-onenine/"><img src="https://img.shields.io/badge/leetcode-daystar--onenine-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile link"></a>
+  <a href="https://www.facebook.com/profile.php?id=100042762615551"><img src="https://img.shields.io/badge/facebook-Suraj--Sawant-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile link"></a>
   <br><br>
-  <a href="https://x.com/one9daystar"><img src="https://img.shields.io/badge/twitter-one9daystar-FF0000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter profile link"></a>
-  <a href="https://discord.gg/kkfHFSbZ"><img src="https://img.shields.io/badge/discord-Suraj-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord link"></a>
-  <a href="https://www.instagram.com/daystar.drafts/"><img src="https://img.shields.io/badge/instagram-daystar.drafts-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram link"></a>
+  <a href="https://x.com/one9daystar"><img src="https://img.shields.io/badge/twitter-one9daystar-0B0A0F?style=for-the-badge&logo=x&logoColor=white" alt="Twitter profile link"></a>
+  <a href="https://discord.gg/kkfHFSbZ"><img src="https://img.shields.io/badge/discord-Suraj-8B5CF6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord link"></a>
+  <a href="https://www.instagram.com/daystar.drafts/"><img src="https://img.shields.io/badge/instagram-daystar.drafts-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram link"></a>
 </p>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/daystar-1nine)
 
-### 🕹️ Mini-Game: Catch Kira!
+### 🕹️ Mini-Game: Navigate the Asteroid Field!
 
-**🚨 L needs your help! 🚨**<br>
-The elusive developer known as "Kira" is hiding within this repository. Do you have the detective skills to track him down before he executes another script?
+**🚨 MAYDAY! MAYDAY! 🚨**<br>
+Your spacecraft has wandered into a dense asteroid field. Do you have the piloting skills to navigate through the debris and reach the new exoplanet?
 
-👉 **[CLICK HERE TO START THE INVESTIGATION](.github/deathnote-game/level1.md)** 👈
+👉 **[CLICK HERE TO INITIATE EVASIVE MANEUVERS](.github/space-game/level1.md)** 👈
 
 <br>
 
 <p align="center">
-  <img src="https://quotes-api-ruddy.vercel.app/quotes/random/svg?theme=dracula&width=800&height=200" alt="Quote of the Day" />
+  <img src="https://quotes-api-ruddy.vercel.app/quotes/random/svg?theme=synthwave&width=800&height=200" alt="Quote of the Day" />
 </p>
 
 <p align="center">
-⚡ <i>"If you can't win the game, if you can't solve the puzzle, you are nothing but a loser." - N</i>
+⚡ <i>"Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious." - Stephen Hawking</i>
 </p>
 
 <p align="center">
@@ -168,5 +168,5 @@ The elusive developer known as "Kira" is hiding within this repository. Do you h
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=000000,FF0000,000000,3c0b5c&height=100&section=footer&width=100" alt="Profile footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=000000,0B0C10,1f2833,000000&height=100&section=footer&width=100" alt="Profile footer"/>
 </p>

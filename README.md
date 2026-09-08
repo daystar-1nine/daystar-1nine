@@ -18,13 +18,7 @@
   />
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/uBszto8h2oI9a/giphy.gif" width="600" alt="Spinning Solar System Animation">
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daystar-1nine&theme=dracula&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
 
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/daystar-1nine)

@@ -18,6 +18,14 @@
   />
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/uBszto8h2oI9a/giphy.gif" width="600" alt="Spinning Solar System Animation">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daystar-1nine&theme=dracula&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/daystar-1nine)
 
@@ -94,10 +102,18 @@
   <img src="https://komarev.com/ghpvc/?username=daystar-1nine&label=PROFILE%20VIEWS&color=FDB813&style=flat-square" alt="Views" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daystar-1nine&layout=compact&bg_color=000000&title_color=FDB813&text_color=9CA3AF&icon_color=FF8C00&border_color=FDB813" alt="Top Languages" />
+</p>
+
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/daystar-1nine)
 
 ### 🌌 Orbital Trajectories (Activity)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daystar-1nine&bg_color=000000&color=FDB813&line=FF8C00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Animated Activity Graph" />
+</p>
 
 <details>
   <summary><b>🛰️ See my Contribution Constellation</b></summary>
@@ -124,6 +140,10 @@
 <h3 align="center">🪐 The Intergalactic Federation (Collaboration) ☄️</h3>
 <p align="center">
   <i>I’m open to teaming up across the galaxy on Machine Learning Projects, Full-stack Web Apps, Open Source Contributions, and Hackathons!</i>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/l41JRsph73VokN6ik/giphy.gif" width="300" alt="Rocket Animation">
 </p>
 
 <br>

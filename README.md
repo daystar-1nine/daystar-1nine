@@ -95,25 +95,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daystar-1nine&show_icons=true&bg_color=000000&title_color=FDB813&text_color=9CA3AF&icon_color=FF8C00&border_color=FDB813" alt="GitHub profile contribution summary" />
-</p>    
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=daystar-1nine&label=PROFILE%20VIEWS&color=FDB813&style=flat-square" alt="Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daystar-1nine&layout=compact&bg_color=000000&title_color=FDB813&text_color=9CA3AF&icon_color=FF8C00&border_color=FDB813" alt="Top Languages" />
 </p>
 
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/daystar-1nine)
 
 ### 🌌 Orbital Trajectories (Activity)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daystar-1nine&bg_color=000000&color=FDB813&line=FF8C00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Animated Activity Graph" />
-</p>
 
 <details>
   <summary><b>🛰️ See my Contribution Constellation</b></summary>

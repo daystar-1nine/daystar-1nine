@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+  <style>
+    @keyframes spin {
+      100% { transform: rotate(360deg); }
+    }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.1); opacity: 0.8; }
+    }
+    .sun { animation: pulse 3s infinite ease-in-out; transform-origin: 300px 150px; }
+    .orbit1 { animation: spin 4s linear infinite; transform-origin: 300px 150px; }
+    .orbit2 { animation: spin 8s linear infinite; transform-origin: 300px 150px; }
+    .orbit3 { animation: spin 14s linear infinite; transform-origin: 300px 150px; }
+    .orbit4 { animation: spin 22s linear infinite; transform-origin: 300px 150px; }
+    .moon-orbit { animation: spin 2s linear infinite; transform-origin: 300px 80px; }
+  </style>
+  
+  <!-- Orbits -->
+  <circle cx="300" cy="150" r="40" fill="none" stroke="#36BCF7" stroke-width="1" stroke-dasharray="4 4" opacity="0.3"/>
+  <circle cx="300" cy="150" r="70" fill="none" stroke="#FF8C00" stroke-width="1" stroke-dasharray="4 4" opacity="0.3"/>
+  <circle cx="300" cy="150" r="100" fill="none" stroke="#E4405F" stroke-width="1" stroke-dasharray="4 4" opacity="0.3"/>
+  <circle cx="300" cy="150" r="130" fill="none" stroke="#8B5CF6" stroke-width="1" stroke-dasharray="4 4" opacity="0.3"/>
+
+  <!-- Sun -->
+  <circle cx="300" cy="150" r="18" fill="#FDB813" class="sun" />
+  <circle cx="300" cy="150" r="24" fill="#FDB813" class="sun" opacity="0.4" />
+  <circle cx="300" cy="150" r="30" fill="#FDB813" class="sun" opacity="0.2" />
+
+  <!-- Planets -->
+  <g class="orbit1">
+    <circle cx="300" cy="110" r="4" fill="#36BCF7" />
+  </g>
+  
+  <g class="orbit2">
+    <!-- Earth -->
+    <circle cx="300" cy="80" r="6" fill="#1877F2" />
+    <circle cx="300" cy="80" r="2" fill="#36BCF7" opacity="0.8" transform="translate(-2, -2)" />
+    <!-- Moon -->
+    <g class="moon-orbit">
+      <circle cx="300" cy="70" r="1.5" fill="#FFFFFF" />
+    </g>
+  </g>
+  
+  <g class="orbit3">
+    <!-- Planet with ring -->
+    <circle cx="300" cy="50" r="9" fill="#E4405F" />
+    <ellipse cx="300" cy="50" rx="16" ry="3" fill="none" stroke="#FDB813" stroke-width="1.5" transform="rotate(25 300 50)" />
+  </g>
+  
+  <g class="orbit4">
+    <!-- Distant ice giant -->
+    <circle cx="300" cy="20" r="5" fill="#8B5CF6" />
+    <circle cx="300" cy="20" r="7" fill="#8B5CF6" opacity="0.3" />
+  </g>
+</svg>

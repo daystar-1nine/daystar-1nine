@@ -18,6 +18,10 @@
   />
 </p>
 
+<p align="center">
+  <img src="assets/solar_system.svg" alt="Animated Solar System" />
+</p>
+
 
 
 

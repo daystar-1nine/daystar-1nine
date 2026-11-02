@@ -197,19 +197,15 @@
 
 <br>
 
-## 🌌 Orbital Trajectories (Activity)
+## 🌌 Orbital Trajectories // Contribution Chart
 
-<details>
-  <summary><b>🛰️ Expand Contribution Constellation (Snake Animation)</b></summary>
-  <br>
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daystar-1nine/daystar-1nine/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daystar-1nine/daystar-1nine/output/github-contribution-grid-snake.svg">
-      <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/daystar-1nine/daystar-1nine/output/github-contribution-grid-snake.svg" width="90%">
-    </picture>
-  </div>
-</details>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daystar-1nine/daystar-1nine/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daystar-1nine/daystar-1nine/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Chart" src="https://raw.githubusercontent.com/daystar-1nine/daystar-1nine/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
 <br>
 
